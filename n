@@ -1,0 +1,30 @@
+[33mcommit 90bdf0132875449f267a57fb33236038d782c951[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 42fa4e5 cdb12de
+Author: Kaoutaramghar11 <kaoutaramghare@gmail.com>
+Date:   Tue Mar 4 14:11:01 2025 +0100
+
+    gestion conflit README
+
+[33mcommit 42fa4e53fe828467e12074c08445f1bccbd7c3c0[m
+Author: kaoutaramghar11 <kaoutaramghare@gmail.com>
+Date:   Tue Mar 4 13:41:42 2025 +0100
+
+    participant 1
+
+[33mcommit 9c0d6a8353b8a6df662ad5004a521a96cd0f6df9[m
+Author: kaoutaramghar11 <kaoutaramghare@gmail.com>
+Date:   Tue Mar 4 13:38:32 2025 +0100
+
+    participant
+
+[33mcommit cdb12deacefc1efbbc100da15fce180afcf9caa1[m
+Author: blackred-cyber <kaoutaramghare@gmail.com>
+Date:   Tue Mar 4 13:25:00 2025 +0100
+
+    Update README.md
+
+[33mcommit 6aa49a42237e71c45f6a03d82478335dc77b13b3[m
+Author: kaw88 <kawtaramghar860@gmail.com>
+Date:   Sun Mar 2 16:02:24 2025 +0100
+
+    Initial commit
